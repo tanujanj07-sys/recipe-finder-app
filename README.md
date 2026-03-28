@@ -25,3 +25,10 @@ README Sections:
 - Author (Name: Tanuja Jangilwad)
 
 Make it clean, modern, and beginner-friendly with emojis and proper formatting.
+
+
+
+how to use: 
+netlify.com:   tanujarecipefinderapp
+
+tanujarecipefinderapp.netlify.app
